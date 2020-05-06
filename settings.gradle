@@ -1,0 +1,3 @@
+rootProject.name='DeafNDumb'
+include ':app'
+include ':openCVLibrary349'
